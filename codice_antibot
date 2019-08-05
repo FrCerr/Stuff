@@ -1,0 +1,206 @@
+
+Overview
+LP_RecuperoPrivacy_Test
+Variant A
+Support
+Last saved 
+6 days ago
+Save
+Republish
+Preview
+Undo
+Redo
+Move Up
+Move Down
+Send Backward
+Bring Forward
+Copy
+Paste
+Duplicate
+Delete
+Contents
+Page Section 3
+Button 1
+Image 17
+Image 16
+Text 8
+Text 2
+logo-.png
+Image 10
+Image 15
+Box 1
+Image 5
+Image 6
+Image 4
+Box 2
+Lightbox Button 1
+Text 4
+Text 1
+Image 18
+Form 1
+Form Button
+Text 9
+Image 17
+Page
+Form Confirmation Dialog
+Lightboxes
+Guide Settings
+
+
+
+Acconsento all'utilizzo dei miei dati personali per attività commerciali *
+SÌ
+NO
+INVIA
+Privacy
+
+
+
+
+
+verti.it/privacy
+
+
+
+Javascripts
+4
+Stylesheets
+2
+Contents
+Desktop
+Mobile
+
+Changes have affected the other view
+Properties
+Page Properties
+Goals
+
+Page
+GEOMETRY
+Size
+W
+1234
+Top Margin
+0
+DEFAULT TEXT STYLE
+Text Color
+#
+FFFFFF
+Link Color
+#
+FAF4F4
+TITLE & META DATA
+Title
+Verti.it - Privacy
+Dynamic Text
+Keywords
+Dynamic Text
+Description
+Dynamic Text
+AMP URL For This Page
+Place your AMP link in the field above. See full documentation
+
+Hide my page from search engines
+Note: make sure this is set the same for all variants
+BACKGROUND PROPERTIES
+Style
+Solid Color
+Color
+#
+FFF
+Opacity
+100
+PAGE IMAGE QUALITY
+Adjust image compression and quality settings for every image on this page. If you have overriden individual image settings, they will not be affected.
+JPG Image Quality
+PNG Compression
+ELEMENT METADATA
+ID:
+#lp-pom-root
+Class:
+.lp-pom-root
+
+
+
+
+
+
+Manage Scripts
+Add Script to this Variant
+DOMAIN SCRIPTS
+GA360
+mcookie
+Floodlight
+Favicon
+VARIANT SCRIPTS
+Codice Cliente
+Error
+Informativa_privacy
+Ambassador
+SCRIPT LIBRARIES
+
+jQuery (1.4.2)
+
+jQuery.Fancybox (1.3.4)
+Script Name
+GA360
+Placement
+Head
+Paste or type scripts below. <script> tags must be included.
+
+Soft Wrap
+1
+<script>
+2
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+3
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+4
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+5
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+6
+  ga('create', 'UA-83759036-2', 'auto', {'siteSpeedSampleRate': 10});
+7
+  ga('require', 'displayfeatures');
+8
+  ga('set', 'anonymizeIp', true);
+9
+  ga('set', 'title', 'it:mapfre:verti:landing:'+ window.ub.page.name);
+10
+  ga('set', 'page', '/landing-b2c'+ document.location.pathname);                            
+11
+  ga('set', 'dimension21', 'production');
+12
+  ga('set', 'dimension22', '9r78a69t478cccr05ac668223aeer4429');
+13
+  ga('set', 'dimension26', 'it');
+14
+  ga('set', 'dimension27', 'verti');
+15
+  ga('set', 'dimension28', 'digitalbusiness');
+16
+  ga('set', 'dimension37', document.location.href);
+17
+  ga('set', 'dimension38', document.referrer);
+18
+  ga('set', 'dimension39', Math.floor(Date.now() / 1000));
+19
+  ga('set', 'dimension40', 'landing page');
+20
+  ga('set', 'dimension41', 'it');
+21
+  ga('set', 'dimension50', 'no logado');
+22
+  ga('set', 'dimension51', 'prospect');
+23
+  ga('set', 'dimension124', window.ub.page.variantId);
+24
+  ga('send', 'pageview');
+25
+</script>
+Open Script Manager
+Please Note: This script cannot be edited here as it is being used across this page's entire domain. If you want, you can make changes in the Script Manager 
+
+Save Code
+Discard
